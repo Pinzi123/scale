@@ -1,0 +1,15 @@
+{
+  "name": "Picture-Operation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "~2.9.2"
+  },
+  "keywords": [],
+  "author": "yaping.wang",
+  "typings": "./index.d.ts"
+}
